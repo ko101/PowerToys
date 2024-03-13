@@ -2,7 +2,7 @@
 
 This software incorporates material from third parties.
 
-- Color Picker
+- Color Picker Joker Entry
 - File Explorer Add-ins
 - ImageResizer
 - PowerToys Run
